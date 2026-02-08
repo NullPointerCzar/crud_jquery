@@ -1,19 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
+/* ========== Root Colors ========== */
 :root {
-    --primary: #7c3aed;
-    --primary-hover: #6d28d9;
-    --success: #22c55e;
-    --success-hover: #16a34a;
-    --danger: #f43f5e;
-    --danger-hover: #e11d48;
-    --warning: #f59e0b;
-    --dark: #1f2937;
+    --primary: #4f46e5;       /* Indigo */
+    --primary-hover: #4338ca;
+    --success: #10b981;       /* Green */
+    --success-hover: #059669;
+    --danger: #ef4444;        /* Red */
+    --danger-hover: #b91c1c;
     --gray: #6b7280;
+    --dark: #111827;
     --light-gray: #9ca3af;
-    --border: #e5e7eb;
-    --bg: #f3f4f6;
     --white: #ffffff;
+    --bg: #f3f4f6;
 }
 
 * {
